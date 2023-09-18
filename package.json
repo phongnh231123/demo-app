@@ -12,13 +12,13 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rockman88v/nodejs-demo-k8s.git"
+    "url": "git+https://github.com/phongnh231123/nodejs-demo-k8s.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rockman88v/nodejs-demo-k8s/issues"
+    "url": "https://github.com/phongnh231123/nodejs-demo-k8s/issues"
   },
-  "homepage": "https://github.com/rockman88v/nodejs-demo-k8s#readme",
+  "homepage": "https://github.com/phongnh231123/nodejs-demo-k8s#readme",
   "description": ""
 }
